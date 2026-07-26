@@ -1,0 +1,3920 @@
+{
+  "players": [
+    {
+      "name": "Moosa",
+      "username": "CRANK_",
+      "phone": "+27699906125",
+      "played": 51,
+      "wins": 45,
+      "draws": 3,
+      "losses": 3,
+      "points": 138,
+      "gf": 136,
+      "ga": 15,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "postponements": 8,
+      "suspended": false
+    },
+    {
+      "name": "Ctaum",
+      "username": "Ctaum-cpt",
+      "phone": "+27764797158",
+      "played": 54,
+      "wins": 36,
+      "draws": 7,
+      "losses": 11,
+      "points": 115,
+      "gf": 119,
+      "ga": 33,
+      "form": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "W",
+        "D",
+        "L",
+        "W"
+      ],
+      "postponements": 18,
+      "suspended": false
+    },
+    {
+      "name": "El Tigre",
+      "username": "Nigelmj21",
+      "phone": "+27656657141",
+      "played": 51,
+      "wins": 33,
+      "draws": 13,
+      "losses": 5,
+      "points": 112,
+      "gf": 85,
+      "ga": 19,
+      "form": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "L",
+        "D",
+        "D"
+      ],
+      "postponements": 8,
+      "suspended": false
+    },
+    {
+      "name": "SMANGALISO",
+      "username": "SMANGALISO",
+      "phone": "+27780070989",
+      "played": 54,
+      "wins": 26,
+      "draws": 13,
+      "losses": 15,
+      "points": 91,
+      "gf": 80,
+      "ga": 47,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L",
+        "W",
+        "L",
+        "W",
+        "L",
+        "D"
+      ],
+      "postponements": 5,
+      "suspended": false
+    },
+    {
+      "name": "Mk Liyas",
+      "username": "Nyali11",
+      "phone": "+27786218748",
+      "played": 53,
+      "wins": 24,
+      "draws": 13,
+      "losses": 16,
+      "points": 85,
+      "gf": 74,
+      "ga": 41,
+      "form": [
+        "L",
+        "L",
+        "D",
+        "W",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "postponements": 19,
+      "suspended": false
+    },
+    {
+      "name": "Dilibo👑",
+      "username": "DiliboL",
+      "phone": "+27760348136",
+      "played": 53,
+      "wins": 21,
+      "draws": 19,
+      "losses": 13,
+      "points": 82,
+      "gf": 62,
+      "ga": 38,
+      "form": [
+        "L",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "L",
+        "L",
+        "D",
+        "D"
+      ],
+      "postponements": 15,
+      "suspended": false
+    },
+    {
+      "name": "mansur",
+      "username": "ICONIC-CLUB",
+      "phone": "+255616502631",
+      "played": 56,
+      "wins": 19,
+      "draws": 24,
+      "losses": 13,
+      "points": 81,
+      "gf": 58,
+      "ga": 35,
+      "form": [
+        "L",
+        "D",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W",
+        "L",
+        "D",
+        "D"
+      ],
+      "postponements": 19,
+      "suspended": false
+    },
+    {
+      "name": "Thandobhaze",
+      "username": "Bhaze",
+      "phone": "+27679687240",
+      "played": 55,
+      "wins": 14,
+      "draws": 30,
+      "losses": 11,
+      "points": 72,
+      "gf": 48,
+      "ga": 29,
+      "form": [
+        "D",
+        "L",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "🅿️🅾️🕉️🅱️🅰️",
+      "username": "RoyalAM",
+      "phone": "+27682987402",
+      "played": 52,
+      "wins": 18,
+      "draws": 18,
+      "losses": 16,
+      "points": 72,
+      "gf": 55,
+      "ga": 51,
+      "form": [
+        "L",
+        "W",
+        "D",
+        "D",
+        "L",
+        "W",
+        "W",
+        "D",
+        "D",
+        "L"
+      ],
+      "postponements": 18,
+      "suspended": false
+    },
+    {
+      "name": "XWRLD 🕴🏼",
+      "username": "XWRLD_REAPERS",
+      "phone": "+27750656258",
+      "played": 40,
+      "wins": 19,
+      "draws": 9,
+      "losses": 12,
+      "points": 66,
+      "gf": 54,
+      "ga": 22,
+      "form": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "D",
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "postponements": 5,
+      "suspended": false
+    },
+    {
+      "name": "DJ THABISO KOMAKO",
+      "username": "Kloutt",
+      "phone": "+27792135785",
+      "played": 55,
+      "wins": 10,
+      "draws": 28,
+      "losses": 17,
+      "points": 58,
+      "gf": 28,
+      "ga": 63,
+      "form": [
+        "D",
+        "L",
+        "L",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "postponements": 14,
+      "suspended": false
+    },
+    {
+      "name": "Sibusiso Makhanye❤️😎🇿🇦",
+      "username": "YungboyShlime",
+      "phone": "+27810878650",
+      "played": 55,
+      "wins": 9,
+      "draws": 26,
+      "losses": 20,
+      "points": 53,
+      "gf": 31,
+      "ga": 62,
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Junaid",
+      "username": "BreadNTea-RSA",
+      "phone": "+27687182477",
+      "played": 25,
+      "wins": 15,
+      "draws": 6,
+      "losses": 4,
+      "points": 51,
+      "gf": 46,
+      "ga": 23,
+      "form": [
+        "D",
+        "D",
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "postponements": 13,
+      "suspended": false
+    },
+    {
+      "name": "Nkosii",
+      "username": "DARK-_-CEO",
+      "phone": "+27832798832",
+      "played": 22,
+      "wins": 12,
+      "draws": 7,
+      "losses": 3,
+      "points": 43,
+      "gf": 33,
+      "ga": 9,
+      "form": [
+        "D",
+        "W",
+        "D",
+        "L",
+        "W",
+        "L",
+        "D",
+        "W",
+        "W",
+        "W"
+      ],
+      "postponements": 17,
+      "suspended": false
+    },
+    {
+      "name": "Reginald Frank Thornton",
+      "username": "RFT07",
+      "phone": "+27820658330",
+      "played": 46,
+      "wins": 2,
+      "draws": 7,
+      "losses": 37,
+      "points": 13,
+      "gf": 6,
+      "ga": 111,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "D",
+        "L"
+      ],
+      "postponements": 14,
+      "suspended": true
+    },
+    {
+      "name": "Sailor",
+      "username": "Sailor",
+      "phone": "+27677514331",
+      "played": 27,
+      "wins": 1,
+      "draws": 4,
+      "losses": 22,
+      "points": 7,
+      "gf": 3,
+      "ga": 66,
+      "form": [
+        "D",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "D"
+      ],
+      "postponements": 18,
+      "suspended": true
+    },
+    {
+      "name": "👑•",
+      "username": "Zan-Ten",
+      "phone": "+27710050307",
+      "played": 48,
+      "wins": 0,
+      "draws": 6,
+      "losses": 42,
+      "points": 6,
+      "gf": 0,
+      "ga": 122,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "D",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "postponements": 20,
+      "suspended": true
+    },
+    {
+      "name": "Zlatan",
+      "username": "Gillie11",
+      "phone": "+270660513301",
+      "played": 12,
+      "wins": 0,
+      "draws": 4,
+      "losses": 8,
+      "points": 4,
+      "gf": 0,
+      "ga": 24,
+      "form": [
+        "D",
+        "L",
+        "L",
+        "L",
+        "L",
+        "D",
+        "D",
+        "D",
+        "L",
+        "L"
+      ],
+      "postponements": 0,
+      "suspended": true
+    },
+    {
+      "name": "DJ Ronaldo ZA",
+      "username": "djronaldoza",
+      "phone": "+27711764627",
+      "played": 15,
+      "wins": 0,
+      "draws": 2,
+      "losses": 13,
+      "points": 2,
+      "gf": 0,
+      "ga": 39,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "D",
+        "D"
+      ],
+      "postponements": 16,
+      "suspended": true
+    },
+    {
+      "username": "CodeTalker",
+      "name": "CodeTalker",
+      "phone": "",
+      "played": 24,
+      "wins": 0,
+      "draws": 1,
+      "losses": 23,
+      "points": 1,
+      "gf": 0,
+      "ga": 69,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "D"
+      ],
+      "postponements": 0,
+      "suspended": true
+    }
+  ],
+  "results": [
+    {
+      "home": "Nyali11",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-24"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-24"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Kloutt",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-24"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-24"
+    },
+    {
+      "home": "Bhaze",
+      "away": "BreadNTea-RSA",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-24"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Ctaum-cpt",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-24"
+    },
+    {
+      "home": "Kloutt",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-23"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Nyali11",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-23"
+    },
+    {
+      "home": "Bhaze",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-23"
+    },
+    {
+      "home": "CRANK_",
+      "away": "BreadNTea-RSA",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "result": "home",
+      "date": "2026-07-23"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "CRANK_",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-22"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "YungboyShlime",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-23"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "BreadNTea-RSA",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-22"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "BreadNTea-RSA",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "result": "away",
+      "date": "2026-07-21"
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "Ctaum-cpt",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-23"
+    },
+    {
+      "home": "DiliboL",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-22"
+    },
+    {
+      "home": "Kloutt",
+      "away": "RoyalAM",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-22"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Nyali11",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-22"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "DARK-_-CEO",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "result": "away",
+      "date": "2026-07-22"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Bhaze",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-22"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-22"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Kloutt",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-21"
+    },
+    {
+      "home": "Bhaze",
+      "away": "DARK-_-CEO",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-21"
+    },
+    {
+      "home": "CRANK_",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-20"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-21"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "DiliboL",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-21"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "SMANGALISO",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "result": "home",
+      "date": "2026-07-21"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-21"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "Nyali11",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-20"
+    },
+    {
+      "home": "Kloutt",
+      "away": "Bhaze",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-20"
+    },
+    {
+      "home": "DiliboL",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-20"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Nigelmj21",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-20"
+    },
+    {
+      "home": "BreadNTea-RSA",
+      "away": "RoyalAM",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-20"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "DARK-_-CEO",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-20"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-18"
+    },
+    {
+      "home": "Nyali11",
+      "away": "Kloutt",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-18"
+    },
+    {
+      "home": "DiliboL",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-18"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "Bhaze",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-18"
+    },
+    {
+      "home": "CRANK_",
+      "away": "DARK-_-CEO",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-17"
+    },
+    {
+      "home": "CRANK_",
+      "away": "Ctaum-cpt",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-07-17"
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "SMANGALISO",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-18"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-18"
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "SMANGALISO",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-07-17"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-07-18"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "BreadNTea-RSA",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-17"
+    },
+    {
+      "home": "DiliboL",
+      "away": "Bhaze",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-17"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "RoyalAM",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-17"
+    },
+    {
+      "home": "Nyali11",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-17"
+    },
+    {
+      "home": "Kloutt",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-17"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Gillie11",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-15"
+    },
+    {
+      "home": "Gillie11",
+      "away": "SMANGALISO",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-13"
+    },
+    {
+      "home": "Sailor",
+      "away": "Gillie11",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-12"
+    },
+    {
+      "home": "Gillie11",
+      "away": "djronaldoza",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-11"
+    },
+    {
+      "home": "Gillie11",
+      "away": "djronaldoza",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-08"
+    },
+    {
+      "home": "Gillie11",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-16"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-17"
+    },
+    {
+      "home": "Bhaze",
+      "away": "Nyali11",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-17"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-17"
+    },
+    {
+      "home": "DiliboL",
+      "away": "RoyalAM",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-17"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Zan-Ten",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-17"
+    },
+    {
+      "home": "Kloutt",
+      "away": "Ctaum-cpt",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-17"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "djronaldoza",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-04"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "Ctaum-cpt",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-04"
+    },
+    {
+      "home": "CodeTalker",
+      "away": "Sailor",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-04"
+    },
+    {
+      "home": "DiliboL",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-04"
+    },
+    {
+      "home": "Kloutt",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 7,
+      "result": "away",
+      "date": "2026-05-04"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-04"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "SMANGALISO",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "result": "home",
+      "date": "2026-05-04"
+    },
+    {
+      "home": "Nyali11",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "result": "draw",
+      "date": "2026-05-04"
+    },
+    {
+      "home": "Gillie11",
+      "away": "Bhaze",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-04"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "CodeTalker",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-05"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "CRANK_",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "result": "draw",
+      "date": "2026-05-05"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "djronaldoza",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-05"
+    },
+    {
+      "home": "Bhaze",
+      "away": "Kloutt",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-05"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Gillie11",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-05"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "Nigelmj21",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-05"
+    },
+    {
+      "home": "Nyali11",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-05"
+    },
+    {
+      "home": "Sailor",
+      "away": "Ctaum-cpt",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-05"
+    },
+    {
+      "home": "DiliboL",
+      "away": "Zan-Ten",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-05"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-05-06"
+    },
+    {
+      "home": "Gillie11",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-06"
+    },
+    {
+      "home": "Kloutt",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-06"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "djronaldoza",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-06"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "Bhaze",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-06"
+    },
+    {
+      "home": "Nyali11",
+      "away": "CRANK_",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "result": "away",
+      "date": "2026-05-06"
+    },
+    {
+      "home": "RFT07",
+      "away": "Sailor",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-06"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Nigelmj21",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-06"
+    },
+    {
+      "home": "CodeTalker",
+      "away": "SMANGALISO",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-06"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "DiliboL",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "result": "away",
+      "date": "2026-05-07"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-05-07"
+    },
+    {
+      "home": "Bhaze",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-07"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "Nyali11",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-07"
+    },
+    {
+      "home": "djronaldoza",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-07"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "RFT07",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-07"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Ctaum-cpt",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-07"
+    },
+    {
+      "home": "CodeTalker",
+      "away": "Kloutt",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-07"
+    },
+    {
+      "home": "Sailor",
+      "away": "Gillie11",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-07"
+    },
+    {
+      "home": "Kloutt",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-08"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "SMANGALISO",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "result": "home",
+      "date": "2026-05-08"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "RoyalAM",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-08"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "result": "away",
+      "date": "2026-05-08"
+    },
+    {
+      "home": "Sailor",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-08"
+    },
+    {
+      "home": "RFT07",
+      "away": "Ctaum-cpt",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-08"
+    },
+    {
+      "home": "Nyali11",
+      "away": "CodeTalker",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-08"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Bhaze",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-08"
+    },
+    {
+      "home": "Bhaze",
+      "away": "djronaldoza",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-09"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-09"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "CRANK_",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-09"
+    },
+    {
+      "home": "Gillie11",
+      "away": "Ctaum-cpt",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-09"
+    },
+    {
+      "home": "CodeTalker",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-09"
+    },
+    {
+      "home": "RFT07",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-11"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "DiliboL",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-11"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-11"
+    },
+    {
+      "home": "Kloutt",
+      "away": "Nyali11",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-11"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Ctaum-cpt",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "result": "home",
+      "date": "2026-05-11"
+    },
+    {
+      "home": "Bhaze",
+      "away": "CodeTalker",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-11"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Sailor",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-11"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "RoyalAM",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-12"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-12"
+    },
+    {
+      "home": "Kloutt",
+      "away": "Ctaum-cpt",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-12"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-12"
+    },
+    {
+      "home": "Kloutt",
+      "away": "Ctaum-cpt",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-12"
+    },
+    {
+      "home": "Bhaze",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-12"
+    },
+    {
+      "home": "djronaldoza",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-12"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "CodeTalker",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-12"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "SMANGALISO",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "result": "away",
+      "date": "2026-05-12"
+    },
+    {
+      "home": "Nyali11",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-12"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "RoyalAM",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-13"
+    },
+    {
+      "home": "Kloutt",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-13"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-13"
+    },
+    {
+      "home": "CRANK_",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "result": "home",
+      "date": "2026-05-13"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "YungboyShlime",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-13"
+    },
+    {
+      "home": "Sailor",
+      "away": "Nyali11",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-13"
+    },
+    {
+      "home": "RFT07",
+      "away": "CodeTalker",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-13"
+    },
+    {
+      "home": "Bhaze",
+      "away": "djronaldoza",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-13"
+    },
+    {
+      "home": "Bhaze",
+      "away": "djronaldoza",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-13"
+    },
+    {
+      "home": "Bhaze",
+      "away": "Gillie11",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-14"
+    },
+    {
+      "home": "djronaldoza",
+      "away": "SMANGALISO",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-14"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "CodeTalker",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-14"
+    },
+    {
+      "home": "Kloutt",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-14"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "result": "away",
+      "date": "2026-05-14"
+    },
+    {
+      "home": "Sailor",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-14"
+    },
+    {
+      "home": "Nyali11",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-05-14"
+    },
+    {
+      "home": "RFT07",
+      "away": "Nigelmj21",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-14"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-14"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "CodeTalker",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-15"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Sailor",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-15"
+    },
+    {
+      "home": "Bhaze",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-15"
+    },
+    {
+      "home": "djronaldoza",
+      "away": "Nigelmj21",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-15"
+    },
+    {
+      "home": "DiliboL",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-15"
+    },
+    {
+      "home": "Kloutt",
+      "away": "Nyali11",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-15"
+    },
+    {
+      "home": "CRANK_",
+      "away": "Zan-Ten",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-15"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "YungboyShlime",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-15"
+    },
+    {
+      "home": "CodeTalker",
+      "away": "RoyalAM",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-19"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Kloutt",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-19"
+    },
+    {
+      "home": "RFT07",
+      "away": "Ctaum-cpt",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-19"
+    },
+    {
+      "home": "Nyali11",
+      "away": "SMANGALISO",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-19"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "Bhaze",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-19"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "djronaldoza",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-19"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-19"
+    },
+    {
+      "home": "CRANK_",
+      "away": "Sailor",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-19"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Nigelmj21",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-05-20"
+    },
+    {
+      "home": "Nyali11",
+      "away": "djronaldoza",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-20"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Nigelmj21",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-05-20"
+    },
+    {
+      "home": "Nyali11",
+      "away": "djronaldoza",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-20"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "Sailor",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-20"
+    },
+    {
+      "home": "Bhaze",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-05-20"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-05-20"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "RoyalAM",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-20"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Kloutt",
+      "homeGoals": 10,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-20"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "Nigelmj21",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-20"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "CodeTalker",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-20"
+    },
+    {
+      "home": "CRANK_",
+      "away": "Nigelmj21",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-22"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "SMANGALISO",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-05-22"
+    },
+    {
+      "home": "DiliboL",
+      "away": "Sailor",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-22"
+    },
+    {
+      "home": "Kloutt",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-22"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Ctaum-cpt",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-05-22"
+    },
+    {
+      "home": "Nyali11",
+      "away": "RoyalAM",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-22"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "Bhaze",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-22"
+    },
+    {
+      "home": "CodeTalker",
+      "away": "RFT07",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-22"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "SMANGALISO",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-23"
+    },
+    {
+      "home": "DiliboL",
+      "away": "CodeTalker",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-23"
+    },
+    {
+      "home": "CRANK_",
+      "away": "Sailor",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-23"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Nyali11",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-23"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Bhaze",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-23"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "RoyalAM",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-23"
+    },
+    {
+      "home": "RFT07",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-23"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "Kloutt",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-23"
+    },
+    {
+      "home": "Kloutt",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-24"
+    },
+    {
+      "home": "Bhaze",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-24"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-24"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "CodeTalker",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-24"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "DiliboL",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-24"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "Nigelmj21",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-05-24"
+    },
+    {
+      "home": "Sailor",
+      "away": "Nyali11",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-24"
+    },
+    {
+      "home": "CRANK_",
+      "away": "SMANGALISO",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "result": "home",
+      "date": "2026-05-24"
+    },
+    {
+      "home": "CRANK_",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-27"
+    },
+    {
+      "home": "RFT07",
+      "away": "Sailor",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-27"
+    },
+    {
+      "home": "CodeTalker",
+      "away": "SMANGALISO",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-27"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "RoyalAM",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-27"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "YungboyShlime",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-27"
+    },
+    {
+      "home": "Bhaze",
+      "away": "Kloutt",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-05-27"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-27"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Nyali11",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-27"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "DiliboL",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-28"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-28"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Kloutt",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-28"
+    },
+    {
+      "home": "Sailor",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-28"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-28"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Kloutt",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-28"
+    },
+    {
+      "home": "Sailor",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-28"
+    },
+    {
+      "home": "Nyali11",
+      "away": "Bhaze",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-28"
+    },
+    {
+      "home": "CodeTalker",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-28"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-28"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "Ctaum-cpt",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-28"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "Nyali11",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-29"
+    },
+    {
+      "home": "DiliboL",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-29"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "SMANGALISO",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "result": "draw",
+      "date": "2026-05-29"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-29"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-05-29"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "Sailor",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-29"
+    },
+    {
+      "home": "Bhaze",
+      "away": "CodeTalker",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-29"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Kloutt",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-29"
+    },
+    {
+      "home": "CRANK_",
+      "away": "Ctaum-cpt",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-30"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "YungboyShlime",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-05-30"
+    },
+    {
+      "home": "Bhaze",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-05-30"
+    },
+    {
+      "home": "Sailor",
+      "away": "RoyalAM",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-30"
+    },
+    {
+      "home": "Kloutt",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-30"
+    },
+    {
+      "home": "CodeTalker",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-05-30"
+    },
+    {
+      "home": "CodeTalker",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-01"
+    },
+    {
+      "home": "Sailor",
+      "away": "Nyali11",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-01"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Bhaze",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-01"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-01"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-01"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Nigelmj21",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-01"
+    },
+    {
+      "home": "RFT07",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-01"
+    },
+    {
+      "home": "Kloutt",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-01"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "CodeTalker",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-02"
+    },
+    {
+      "home": "DiliboL",
+      "away": "SMANGALISO",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-02"
+    },
+    {
+      "home": "Bhaze",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-02"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-02"
+    },
+    {
+      "home": "Kloutt",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-02"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-02"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "YungboyShlime",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-02"
+    },
+    {
+      "home": "Sailor",
+      "away": "Nyali11",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-02"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-04"
+    },
+    {
+      "home": "Kloutt",
+      "away": "CodeTalker",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-04"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Sailor",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-04"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "RoyalAM",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-04"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-04"
+    },
+    {
+      "home": "DiliboL",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-04"
+    },
+    {
+      "home": "RFT07",
+      "away": "Zan-Ten",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-04"
+    },
+    {
+      "home": "Bhaze",
+      "away": "Nyali11",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-04"
+    },
+    {
+      "home": "RFT07",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-05"
+    },
+    {
+      "home": "Kloutt",
+      "away": "Nigelmj21",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-05"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-05"
+    },
+    {
+      "home": "Bhaze",
+      "away": "SMANGALISO",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-05"
+    },
+    {
+      "home": "DiliboL",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-05"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Sailor",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-05"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Nyali11",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-05"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "CodeTalker",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-05"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Ctaum-cpt",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "result": "draw",
+      "date": "2026-06-06"
+    },
+    {
+      "home": "Sailor",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-06"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-06"
+    },
+    {
+      "home": "Bhaze",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-06"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Kloutt",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-06"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-06"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "Nyali11",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-06"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-08"
+    },
+    {
+      "home": "Nyali11",
+      "away": "Kloutt",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-08"
+    },
+    {
+      "home": "CRANK_",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-08"
+    },
+    {
+      "home": "DiliboL",
+      "away": "Nigelmj21",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-08"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "YungboyShlime",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-08"
+    },
+    {
+      "home": "Bhaze",
+      "away": "BreadNTea-RSA",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "result": "away",
+      "date": "2026-06-08"
+    },
+    {
+      "home": "CRANK_",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-09"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "BreadNTea-RSA",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "result": "away",
+      "date": "2026-06-09"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Sailor",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-09"
+    },
+    {
+      "home": "DiliboL",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-09"
+    },
+    {
+      "home": "Nyali11",
+      "away": "RoyalAM",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-09"
+    },
+    {
+      "home": "Nyali11",
+      "away": "RoyalAM",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-09"
+    },
+    {
+      "home": "RFT07",
+      "away": "Kloutt",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-09"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "result": "home",
+      "date": "2026-06-09"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "Bhaze",
+      "homeGoals": 0,
+      "awayGoals": 6,
+      "result": "away",
+      "date": "2026-06-09"
+    },
+    {
+      "home": "DiliboL",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-12"
+    },
+    {
+      "home": "Kloutt",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-12"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "RoyalAM",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-12"
+    },
+    {
+      "home": "CRANK_",
+      "away": "Nyali11",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-12"
+    },
+    {
+      "home": "CRANK_",
+      "away": "SMANGALISO",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-12"
+    },
+    {
+      "home": "DiliboL",
+      "away": "Nigelmj21",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-12"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Nigelmj21",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "result": "away",
+      "date": "2026-06-12"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-12"
+    },
+    {
+      "home": "RFT07",
+      "away": "Nyali11",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-12"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-12"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-12"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Bhaze",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-12"
+    },
+    {
+      "home": "Kloutt",
+      "away": "Sailor",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-12"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "BreadNTea-RSA",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "result": "draw",
+      "date": "2026-06-12"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "DARK-_-CEO",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-13"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "Kloutt",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-13"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "RoyalAM",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-13"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Bhaze",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-13"
+    },
+    {
+      "home": "Nyali11",
+      "away": "DiliboL",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-13"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "BreadNTea-RSA",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-13"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "CRANK_",
+      "homeGoals": 2,
+      "awayGoals": 5,
+      "result": "away",
+      "date": "2026-06-13"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-13"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "SMANGALISO",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-15"
+    },
+    {
+      "home": "Nyali11",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-15"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "BreadNTea-RSA",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "result": "away",
+      "date": "2026-06-15"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Ctaum-cpt",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-15"
+    },
+    {
+      "home": "RFT07",
+      "away": "Zan-Ten",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-15"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-18"
+    },
+    {
+      "home": "DiliboL",
+      "away": "Bhaze",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-18"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "Nyali11",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-18"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-18"
+    },
+    {
+      "home": "CRANK_",
+      "away": "RoyalAM",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-18"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Kloutt",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-18"
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "YungboyShlime",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-18"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-19"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "SMANGALISO",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-19"
+    },
+    {
+      "home": "BreadNTea-RSA",
+      "away": "Nigelmj21",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-19"
+    },
+    {
+      "home": "Nyali11",
+      "away": "DiliboL",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-19"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-19"
+    },
+    {
+      "home": "Bhaze",
+      "away": "DARK-_-CEO",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-19"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-19"
+    },
+    {
+      "home": "Kloutt",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-19"
+    },
+    {
+      "home": "BreadNTea-RSA",
+      "away": "SMANGALISO",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-19"
+    },
+    {
+      "home": "DiliboL",
+      "away": "Nigelmj21",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-20"
+    },
+    {
+      "home": "Bhaze",
+      "away": "DARK-_-CEO",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-20"
+    },
+    {
+      "home": "Nyali11",
+      "away": "RoyalAM",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-20"
+    },
+    {
+      "home": "Kloutt",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-20"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-20"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-20"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-20"
+    },
+    {
+      "home": "BreadNTea-RSA",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-20"
+    },
+    {
+      "home": "CRANK_",
+      "away": "SMANGALISO",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-22"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-22"
+    },
+    {
+      "home": "RFT07",
+      "away": "Nigelmj21",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-22"
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "Nyali11",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-22"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "BreadNTea-RSA",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "result": "away",
+      "date": "2026-06-22"
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-23"
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-23"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Kloutt",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-23"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-23"
+    },
+    {
+      "home": "CRANK_",
+      "away": "Bhaze",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-23"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-23"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "Nyali11",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-23"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-23"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-23"
+    },
+    {
+      "home": "Nyali11",
+      "away": "RoyalAM",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-27"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Bhaze",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-27"
+    },
+    {
+      "home": "Kloutt",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-27"
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-27"
+    },
+    {
+      "home": "CRANK_",
+      "away": "YungboyShlime",
+      "homeGoals": 7,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-27"
+    },
+    {
+      "home": "RFT07",
+      "away": "Zan-Ten",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-27"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "SMANGALISO",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "result": "home",
+      "date": "2026-06-27"
+    },
+    {
+      "home": "Bhaze",
+      "away": "Kloutt",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-29"
+    },
+    {
+      "home": "Bhaze",
+      "away": "Kloutt",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-29"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "BreadNTea-RSA",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-29"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "RoyalAM",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-29"
+    },
+    {
+      "home": "RFT07",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-06-29"
+    },
+    {
+      "home": "CRANK_",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-29"
+    },
+    {
+      "home": "Nyali11",
+      "away": "YungboyShlime",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-29"
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-29"
+    },
+    {
+      "home": "Kloutt",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-30"
+    },
+    {
+      "home": "Bhaze",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-30"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "RoyalAM",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-06-30"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-30"
+    },
+    {
+      "home": "CRANK_",
+      "away": "Nyali11",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-30"
+    },
+    {
+      "home": "BreadNTea-RSA",
+      "away": "YungboyShlime",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-06-30"
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "Ctaum-cpt",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "result": "draw",
+      "date": "2026-06-30"
+    },
+    {
+      "home": "CRANK_",
+      "away": "SMANGALISO",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-02"
+    },
+    {
+      "home": "Nyali11",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-02"
+    },
+    {
+      "home": "Bhaze",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-02"
+    },
+    {
+      "home": "Kloutt",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-02"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-02"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "BreadNTea-RSA",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "result": "draw",
+      "date": "2026-07-02"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-02"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-03"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "Ctaum-cpt",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-03"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "SMANGALISO",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-03"
+    },
+    {
+      "home": "DiliboL",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-03"
+    },
+    {
+      "home": "BreadNTea-RSA",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-03"
+    },
+    {
+      "home": "Nyali11",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-03"
+    },
+    {
+      "home": "Bhaze",
+      "away": "DARK-_-CEO",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-03"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-04"
+    },
+    {
+      "home": "Bhaze",
+      "away": "SMANGALISO",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-04"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-04"
+    },
+    {
+      "home": "Kloutt",
+      "away": "BreadNTea-RSA",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-04"
+    },
+    {
+      "home": "CRANK_",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-06"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Bhaze",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-06"
+    },
+    {
+      "home": "DiliboL",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-06"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "BreadNTea-RSA",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-06"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-06"
+    },
+    {
+      "home": "Kloutt",
+      "away": "Nyali11",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-06"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "SMANGALISO",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "result": "home",
+      "date": "2026-07-06"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-07"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "SMANGALISO",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-07"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Bhaze",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-07"
+    },
+    {
+      "home": "Kloutt",
+      "away": "DARK-_-CEO",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-07"
+    },
+    {
+      "home": "BreadNTea-RSA",
+      "away": "Bhaze",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-09"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "SMANGALISO",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-10"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-10"
+    },
+    {
+      "home": "DiliboL",
+      "away": "Kloutt",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-10"
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-10"
+    },
+    {
+      "home": "Nyali11",
+      "away": "Nigelmj21",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "result": "away",
+      "date": "2026-07-10"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Ctaum-cpt",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-10"
+    },
+    {
+      "home": "BreadNTea-RSA",
+      "away": "Bhaze",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "result": "draw",
+      "date": "2026-07-10"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "Bhaze",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-11"
+    },
+    {
+      "home": "Kloutt",
+      "away": "RFT07",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-11"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Zan-Ten",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-11"
+    },
+    {
+      "home": "ICONIC-CLUB",
+      "away": "DARK-_-CEO",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-11"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "CRANK_",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "result": "away",
+      "date": "2026-07-11"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Nyali11",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-11"
+    },
+    {
+      "home": "DiliboL",
+      "away": "BreadNTea-RSA",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-11"
+    },
+    {
+      "home": "Kloutt",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-13"
+    },
+    {
+      "home": "RFT07",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-13"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Nyali11",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-13"
+    },
+    {
+      "home": "YungboyShlime",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-14"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Kloutt",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-14"
+    },
+    {
+      "home": "Nyali11",
+      "away": "DARK-_-CEO",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "result": "draw",
+      "date": "2026-07-14"
+    },
+    {
+      "home": "CRANK_",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-14"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "RFT07",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-14"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "BreadNTea-RSA",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "result": "draw",
+      "date": "2026-07-14"
+    },
+    {
+      "home": "Bhaze",
+      "away": "SMANGALISO",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "result": "away",
+      "date": "2026-07-14"
+    }
+  ],
+  "updatedAt": "2026-07-24T22:10:04.948Z",
+  "matchesPlayed": 424
+}
