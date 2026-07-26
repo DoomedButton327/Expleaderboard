@@ -4,19 +4,19 @@
       "name": "Moosa",
       "username": "CRANK_",
       "phone": "+27699906125",
-      "played": 51,
-      "wins": 45,
+      "played": 53,
+      "wins": 47,
       "draws": 3,
       "losses": 3,
-      "points": 138,
-      "gf": 136,
+      "points": 144,
+      "gf": 142,
       "ga": 15,
       "form": [
         "W",
         "W",
-        "W",
-        "W",
         "L",
+        "W",
+        "W",
         "W",
         "W",
         "W",
@@ -30,15 +30,14 @@
       "name": "Ctaum",
       "username": "Ctaum-cpt",
       "phone": "+27764797158",
-      "played": 54,
+      "played": 55,
       "wins": 36,
       "draws": 7,
-      "losses": 11,
+      "losses": 12,
       "points": 115,
       "gf": 119,
-      "ga": 33,
+      "ga": 36,
       "form": [
-        "L",
         "W",
         "D",
         "W",
@@ -47,7 +46,8 @@
         "W",
         "D",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 18,
       "suspended": false
@@ -56,16 +56,14 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "+27656657141",
-      "played": 51,
+      "played": 53,
       "wins": 33,
       "draws": 13,
-      "losses": 5,
+      "losses": 7,
       "points": 112,
       "gf": 85,
-      "ga": 19,
+      "ga": 25,
       "form": [
-        "W",
-        "W",
         "D",
         "W",
         "L",
@@ -73,7 +71,9 @@
         "D",
         "L",
         "D",
-        "D"
+        "D",
+        "L",
+        "L"
       ],
       "postponements": 8,
       "suspended": false
@@ -82,24 +82,24 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "+27780070989",
-      "played": 54,
+      "played": 55,
       "wins": 26,
       "draws": 13,
-      "losses": 15,
+      "losses": 16,
       "points": 91,
       "gf": 80,
-      "ga": 47,
+      "ga": 48,
       "form": [
         "W",
         "W",
         "W",
-        "W",
         "L",
         "W",
         "L",
+        "D",
         "W",
         "L",
-        "D"
+        "L"
       ],
       "postponements": 5,
       "suspended": false
@@ -108,15 +108,14 @@
       "name": "Mk Liyas",
       "username": "Nyali11",
       "phone": "+27786218748",
-      "played": 53,
-      "wins": 24,
+      "played": 54,
+      "wins": 25,
       "draws": 13,
       "losses": 16,
-      "points": 85,
-      "gf": 74,
+      "points": 88,
+      "gf": 75,
       "ga": 41,
       "form": [
-        "L",
         "L",
         "D",
         "W",
@@ -125,7 +124,8 @@
         "D",
         "D",
         "D",
-        "D"
+        "D",
+        "W"
       ],
       "postponements": 19,
       "suspended": false
@@ -134,21 +134,21 @@
       "name": "Dilibo👑",
       "username": "DiliboL",
       "phone": "+27760348136",
-      "played": 53,
+      "played": 54,
       "wins": 21,
-      "draws": 19,
+      "draws": 20,
       "losses": 13,
-      "points": 82,
+      "points": 83,
       "gf": 62,
       "ga": 38,
       "form": [
-        "L",
         "D",
         "D",
         "D",
         "D",
         "D",
         "L",
+        "D",
         "L",
         "D",
         "D"
@@ -160,21 +160,21 @@
       "name": "mansur",
       "username": "ICONIC-CLUB",
       "phone": "+255616502631",
-      "played": 56,
+      "played": 57,
       "wins": 19,
-      "draws": 24,
+      "draws": 25,
       "losses": 13,
-      "points": 81,
+      "points": 82,
       "gf": 58,
       "ga": 35,
       "form": [
-        "L",
         "D",
         "D",
         "W",
         "W",
         "D",
         "W",
+        "D",
         "L",
         "D",
         "D"
@@ -183,18 +183,43 @@
       "suspended": false
     },
     {
+      "name": "XWRLD 🕴🏼",
+      "username": "XWRLD_REAPERS",
+      "phone": "+27750656258",
+      "played": 43,
+      "wins": 21,
+      "draws": 10,
+      "losses": 12,
+      "points": 73,
+      "gf": 60,
+      "ga": 22,
+      "form": [
+        "L",
+        "D",
+        "L",
+        "L",
+        "W",
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "postponements": 5,
+      "suspended": false
+    },
+    {
       "name": "Thandobhaze",
       "username": "Bhaze",
       "phone": "+27679687240",
-      "played": 55,
+      "played": 56,
       "wins": 14,
-      "draws": 30,
+      "draws": 31,
       "losses": 11,
-      "points": 72,
+      "points": 73,
       "gf": 48,
       "ga": 29,
       "form": [
-        "D",
         "L",
         "D",
         "D",
@@ -203,7 +228,8 @@
         "D",
         "D",
         "D",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -212,69 +238,43 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "+27682987402",
-      "played": 52,
+      "played": 53,
       "wins": 18,
-      "draws": 18,
+      "draws": 19,
       "losses": 16,
-      "points": 72,
+      "points": 73,
       "gf": 55,
       "ga": 51,
       "form": [
-        "L",
         "W",
         "D",
         "D",
         "L",
         "W",
+        "D",
         "W",
         "D",
-        "D",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 18,
-      "suspended": false
-    },
-    {
-      "name": "XWRLD 🕴🏼",
-      "username": "XWRLD_REAPERS",
-      "phone": "+27750656258",
-      "played": 40,
-      "wins": 19,
-      "draws": 9,
-      "losses": 12,
-      "points": 66,
-      "gf": 54,
-      "ga": 22,
-      "form": [
-        "L",
-        "L",
-        "W",
-        "L",
-        "D",
-        "L",
-        "L",
-        "W",
-        "W",
-        "W"
-      ],
-      "postponements": 5,
       "suspended": false
     },
     {
       "name": "DJ THABISO KOMAKO",
       "username": "Kloutt",
       "phone": "+27792135785",
-      "played": 55,
+      "played": 56,
       "wins": 10,
-      "draws": 28,
+      "draws": 29,
       "losses": 17,
-      "points": 58,
+      "points": 59,
       "gf": 28,
       "ga": 63,
       "form": [
+        "L",
+        "L",
         "D",
-        "L",
-        "L",
         "D",
         "D",
         "D",
@@ -287,14 +287,40 @@
       "suspended": false
     },
     {
+      "name": "Junaid",
+      "username": "BreadNTea-RSA",
+      "phone": "+27687182477",
+      "played": 26,
+      "wins": 16,
+      "draws": 6,
+      "losses": 4,
+      "points": 54,
+      "gf": 49,
+      "ga": 23,
+      "form": [
+        "D",
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "postponements": 13,
+      "suspended": false
+    },
+    {
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "YungboyShlime",
       "phone": "+27810878650",
-      "played": 55,
+      "played": 56,
       "wins": 9,
-      "draws": 26,
+      "draws": 27,
       "losses": 20,
-      "points": 53,
+      "points": 54,
       "gf": 31,
       "ga": 62,
       "form": [
@@ -303,63 +329,37 @@
         "D",
         "D",
         "D",
-        "D",
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Junaid",
-      "username": "BreadNTea-RSA",
-      "phone": "+27687182477",
-      "played": 25,
-      "wins": 15,
-      "draws": 6,
-      "losses": 4,
-      "points": 51,
-      "gf": 46,
-      "ga": 23,
-      "form": [
-        "D",
-        "D",
-        "W",
-        "D",
-        "W",
-        "L",
-        "W",
-        "W",
-        "L",
-        "L"
-      ],
-      "postponements": 13,
       "suspended": false
     },
     {
       "name": "Nkosii",
       "username": "DARK-_-CEO",
       "phone": "+27832798832",
-      "played": 22,
+      "played": 25,
       "wins": 12,
-      "draws": 7,
-      "losses": 3,
-      "points": 43,
+      "draws": 8,
+      "losses": 5,
+      "points": 44,
       "gf": 33,
-      "ga": 9,
+      "ga": 15,
       "form": [
-        "D",
-        "W",
-        "D",
         "L",
         "W",
         "L",
         "D",
         "W",
+        "L",
         "W",
-        "W"
+        "W",
+        "D",
+        "L"
       ],
       "postponements": 17,
       "suspended": false
@@ -523,12 +523,103 @@
   ],
   "results": [
     {
+      "home": "Kloutt",
+      "away": "XWRLD_REAPERS",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-25",
+      "evidence": null
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "DiliboL",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-25",
+      "evidence": null
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "DARK-_-CEO",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-23",
+      "evidence": null
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-24",
+      "evidence": null
+    },
+    {
+      "home": "RoyalAM",
+      "away": "ICONIC-CLUB",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-25",
+      "evidence": null
+    },
+    {
+      "home": "Bhaze",
+      "away": "YungboyShlime",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-07-25",
+      "evidence": null
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Nigelmj21",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-07-23",
+      "evidence": null
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "BreadNTea-RSA",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-25",
+      "evidence": null
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "CRANK_",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "result": "away",
+      "date": "2026-07-25",
+      "evidence": null
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Nyali11",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-07-25",
+      "evidence": null
+    },
+    {
       "home": "Nyali11",
       "away": "DiliboL",
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-24"
+      "date": "2026-07-24",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -536,7 +627,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-24"
+      "date": "2026-07-24",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -544,7 +636,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-24"
+      "date": "2026-07-24",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -552,7 +645,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-24"
+      "date": "2026-07-24",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -560,7 +654,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-24"
+      "date": "2026-07-24",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -568,7 +663,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-24"
+      "date": "2026-07-24",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -576,7 +672,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-23"
+      "date": "2026-07-23",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -584,7 +681,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-23"
+      "date": "2026-07-23",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -592,7 +690,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-23"
+      "date": "2026-07-23",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -600,7 +699,8 @@
       "homeGoals": 5,
       "awayGoals": 1,
       "result": "home",
-      "date": "2026-07-23"
+      "date": "2026-07-23",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -608,7 +708,8 @@
       "homeGoals": 1,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-22"
+      "date": "2026-07-22",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -616,7 +717,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-23"
+      "date": "2026-07-23",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -624,7 +726,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-22"
+      "date": "2026-07-22",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -632,7 +735,8 @@
       "homeGoals": 0,
       "awayGoals": 5,
       "result": "away",
-      "date": "2026-07-21"
+      "date": "2026-07-21",
+      "evidence": null
     },
     {
       "home": "DARK-_-CEO",
@@ -640,7 +744,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-23"
+      "date": "2026-07-23",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -648,7 +753,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-22"
+      "date": "2026-07-22",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -656,7 +762,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-22"
+      "date": "2026-07-22",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -664,7 +771,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-22"
+      "date": "2026-07-22",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -672,7 +780,8 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "result": "away",
-      "date": "2026-07-22"
+      "date": "2026-07-22",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -680,7 +789,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-22"
+      "date": "2026-07-22",
+      "evidence": null
     },
     {
       "home": "Zan-Ten",
@@ -688,7 +798,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-22"
+      "date": "2026-07-22",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -696,7 +807,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-21"
+      "date": "2026-07-21",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -704,7 +816,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-21"
+      "date": "2026-07-21",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -712,7 +825,8 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-20"
+      "date": "2026-07-20",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -720,7 +834,8 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-21"
+      "date": "2026-07-21",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -728,7 +843,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-21"
+      "date": "2026-07-21",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -736,7 +852,8 @@
       "homeGoals": 3,
       "awayGoals": 1,
       "result": "home",
-      "date": "2026-07-21"
+      "date": "2026-07-21",
+      "evidence": null
     },
     {
       "home": "Zan-Ten",
@@ -744,7 +861,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-21"
+      "date": "2026-07-21",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -752,7 +870,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-20"
+      "date": "2026-07-20",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -760,7 +879,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-20"
+      "date": "2026-07-20",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -768,7 +888,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-20"
+      "date": "2026-07-20",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -776,7 +897,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-20"
+      "date": "2026-07-20",
+      "evidence": null
     },
     {
       "home": "BreadNTea-RSA",
@@ -784,7 +906,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-20"
+      "date": "2026-07-20",
+      "evidence": null
     },
     {
       "home": "Zan-Ten",
@@ -792,7 +915,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-20"
+      "date": "2026-07-20",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -800,7 +924,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-18"
+      "date": "2026-07-18",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -808,7 +933,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-18"
+      "date": "2026-07-18",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -816,7 +942,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-18"
+      "date": "2026-07-18",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -824,7 +951,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-18"
+      "date": "2026-07-18",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -832,7 +960,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -840,7 +969,8 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "result": "away",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "evidence": null
     },
     {
       "home": "DARK-_-CEO",
@@ -848,7 +978,8 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-18"
+      "date": "2026-07-18",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -856,7 +987,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-18"
+      "date": "2026-07-18",
+      "evidence": null
     },
     {
       "home": "DARK-_-CEO",
@@ -864,7 +996,8 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "result": "away",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -872,7 +1005,8 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "result": "away",
-      "date": "2026-07-18"
+      "date": "2026-07-18",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -880,7 +1014,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -888,7 +1023,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -896,7 +1032,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -904,7 +1041,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -912,7 +1050,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -920,7 +1059,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-15"
+      "date": "2026-05-15",
+      "evidence": null
     },
     {
       "home": "Gillie11",
@@ -928,7 +1068,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-13"
+      "date": "2026-05-13",
+      "evidence": null
     },
     {
       "home": "Sailor",
@@ -936,7 +1077,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-12"
+      "date": "2026-05-12",
+      "evidence": null
     },
     {
       "home": "Gillie11",
@@ -944,7 +1086,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-11"
+      "date": "2026-05-11",
+      "evidence": null
     },
     {
       "home": "Gillie11",
@@ -952,7 +1095,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-08"
+      "date": "2026-05-08",
+      "evidence": null
     },
     {
       "home": "Gillie11",
@@ -960,7 +1104,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-16"
+      "date": "2026-05-16",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -968,7 +1113,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -976,7 +1122,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -984,7 +1131,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -992,7 +1140,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -1000,7 +1149,8 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -1008,7 +1158,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "evidence": null
     },
     {
       "home": "XWRLD_REAPERS",
@@ -1016,7 +1167,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-04"
+      "date": "2026-05-04",
+      "evidence": null
     },
     {
       "home": "Zan-Ten",
@@ -1024,7 +1176,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-04"
+      "date": "2026-05-04",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-04/images/match_Zan-Ten_vs_Ctaum-cpt_1778132031313.jpg"
     },
     {
       "home": "CodeTalker",
@@ -1032,7 +1185,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-04"
+      "date": "2026-05-04",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -1040,7 +1194,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-04"
+      "date": "2026-05-04",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-04/images/match_DiliboL_vs_CRANK__1777925885828.jpg"
     },
     {
       "home": "Kloutt",
@@ -1048,7 +1203,8 @@
       "homeGoals": 0,
       "awayGoals": 7,
       "result": "away",
-      "date": "2026-05-04"
+      "date": "2026-05-04",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-04/images/match_Kloutt_vs_YungboyShlime_1777921418548.jpg"
     },
     {
       "home": "Nigelmj21",
@@ -1056,7 +1212,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-04"
+      "date": "2026-05-04",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-04/images/match_Nigelmj21_vs_RFT07_1777921388325.jpg"
     },
     {
       "home": "RoyalAM",
@@ -1064,7 +1221,8 @@
       "homeGoals": 3,
       "awayGoals": 1,
       "result": "home",
-      "date": "2026-05-04"
+      "date": "2026-05-04",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-04/images/match_RoyalAM_vs_SMANGALISO_1777919265622.jpg"
     },
     {
       "home": "Nyali11",
@@ -1072,7 +1230,8 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "result": "draw",
-      "date": "2026-05-04"
+      "date": "2026-05-04",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-04/images/match_Nyali11_vs_ICONIC-CLUB_1777919241861.jpg"
     },
     {
       "home": "Gillie11",
@@ -1080,7 +1239,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-04"
+      "date": "2026-05-04",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-04/images/match_Gillie11_vs_Bhaze_1777919210755.jpg"
     },
     {
       "home": "XWRLD_REAPERS",
@@ -1088,7 +1248,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-05"
+      "date": "2026-05-05",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-05/images/match_XWRLD_REAPERS_vs_CodeTalker_1778362066828.jpg"
     },
     {
       "home": "SMANGALISO",
@@ -1096,7 +1257,8 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "result": "draw",
-      "date": "2026-05-05"
+      "date": "2026-05-05",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-05/images/match_SMANGALISO_vs_CRANK__1778132209146.jpg"
     },
     {
       "home": "ICONIC-CLUB",
@@ -1104,7 +1266,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-05"
+      "date": "2026-05-05",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-05/images/match_ICONIC-CLUB_vs_djronaldoza_1778132101374.jpg"
     },
     {
       "home": "Bhaze",
@@ -1112,7 +1275,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-05"
+      "date": "2026-05-05",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -1120,7 +1284,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-05"
+      "date": "2026-05-05",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-05/images/match_RoyalAM_vs_Gillie11_1778014952865.jpg"
     },
     {
       "home": "YungboyShlime",
@@ -1128,7 +1293,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-05"
+      "date": "2026-05-05",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-05/images/match_YungboyShlime_vs_Nigelmj21_1778014245635.jpg"
     },
     {
       "home": "Nyali11",
@@ -1136,7 +1302,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-05"
+      "date": "2026-05-05",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-05/images/match_Nyali11_vs_RFT07_1778014141194.jpg"
     },
     {
       "home": "Sailor",
@@ -1144,7 +1311,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-05"
+      "date": "2026-05-05",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-05/images/match_Sailor_vs_Ctaum-cpt_1778014045200.jpg"
     },
     {
       "home": "DiliboL",
@@ -1152,7 +1320,8 @@
       "homeGoals": 4,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-05"
+      "date": "2026-05-05",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-05/images/match_DiliboL_vs_Zan-Ten_1778000012281.jpg"
     },
     {
       "home": "XWRLD_REAPERS",
@@ -1160,7 +1329,8 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "result": "away",
-      "date": "2026-05-06"
+      "date": "2026-05-06",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-06/images/match_XWRLD_REAPERS_vs_ICONIC-CLUB_1778362110020.jpg"
     },
     {
       "home": "Gillie11",
@@ -1168,7 +1338,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-06"
+      "date": "2026-05-06",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-06/images/match_Gillie11_vs_DiliboL_1778361872070.jpg"
     },
     {
       "home": "Kloutt",
@@ -1176,7 +1347,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-06"
+      "date": "2026-05-06",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -1184,7 +1356,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-06"
+      "date": "2026-05-06",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -1192,7 +1365,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-06"
+      "date": "2026-05-06",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -1200,7 +1374,8 @@
       "homeGoals": 1,
       "awayGoals": 4,
       "result": "away",
-      "date": "2026-05-06"
+      "date": "2026-05-06",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-06/images/match_Nyali11_vs_CRANK__1778132245206.jpg"
     },
     {
       "home": "RFT07",
@@ -1208,7 +1383,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-06"
+      "date": "2026-05-06",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-06/images/match_RFT07_vs_Sailor_1778132130131.jpg"
     },
     {
       "home": "Ctaum-cpt",
@@ -1216,7 +1392,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-06"
+      "date": "2026-05-06",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-06/images/match_Ctaum-cpt_vs_Nigelmj21_1778131988937.jpg"
     },
     {
       "home": "CodeTalker",
@@ -1224,7 +1401,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-06"
+      "date": "2026-05-06",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-06/images/match_CodeTalker_vs_SMANGALISO_1778131969334.jpg"
     },
     {
       "home": "RoyalAM",
@@ -1232,7 +1410,8 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "result": "away",
-      "date": "2026-05-07"
+      "date": "2026-05-07",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-07/images/match_RoyalAM_vs_DiliboL_1778530057350.jpg"
     },
     {
       "home": "SMANGALISO",
@@ -1240,7 +1419,8 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "result": "away",
-      "date": "2026-05-07"
+      "date": "2026-05-07",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-07/images/match_SMANGALISO_vs_XWRLD_REAPERS_1778362158201.jpg"
     },
     {
       "home": "Bhaze",
@@ -1248,7 +1428,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-07"
+      "date": "2026-05-07",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -1256,7 +1437,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-07"
+      "date": "2026-05-07",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-07/images/match_YungboyShlime_vs_Nyali11_1778225106527.jpg"
     },
     {
       "home": "djronaldoza",
@@ -1264,7 +1446,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-07"
+      "date": "2026-05-07",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-07/images/match_djronaldoza_vs_CRANK__1778224991613.jpg"
     },
     {
       "home": "Zan-Ten",
@@ -1272,7 +1455,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-07"
+      "date": "2026-05-07",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-07/images/match_Zan-Ten_vs_RFT07_1778224954075.jpg"
     },
     {
       "home": "Nigelmj21",
@@ -1280,7 +1464,8 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-07"
+      "date": "2026-05-07",
+      "evidence": null
     },
     {
       "home": "CodeTalker",
@@ -1288,7 +1473,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-07"
+      "date": "2026-05-07",
+      "evidence": null
     },
     {
       "home": "Sailor",
@@ -1296,7 +1482,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-07"
+      "date": "2026-05-07",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-07/images/match_Sailor_vs_Gillie11_1778224829058.jpg"
     },
     {
       "home": "Kloutt",
@@ -1304,7 +1491,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-08"
+      "date": "2026-05-08",
+      "evidence": null
     },
     {
       "home": "XWRLD_REAPERS",
@@ -1312,7 +1500,8 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "result": "home",
-      "date": "2026-05-08"
+      "date": "2026-05-08",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-08/images/match_XWRLD_REAPERS_vs_SMANGALISO_1778362137464.jpg"
     },
     {
       "home": "YungboyShlime",
@@ -1320,7 +1509,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-08"
+      "date": "2026-05-08",
+      "evidence": null
     },
     {
       "home": "Zan-Ten",
@@ -1328,7 +1518,8 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "result": "away",
-      "date": "2026-05-08"
+      "date": "2026-05-08",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-08/images/match_Zan-Ten_vs_CRANK__1778309665741.jpg"
     },
     {
       "home": "Sailor",
@@ -1336,7 +1527,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-08"
+      "date": "2026-05-08",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-08/images/match_Sailor_vs_ICONIC-CLUB_1778309638672.jpg"
     },
     {
       "home": "RFT07",
@@ -1344,7 +1536,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-08"
+      "date": "2026-05-08",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-08/images/match_RFT07_vs_Ctaum-cpt_1778309583419.jpg"
     },
     {
       "home": "Nyali11",
@@ -1352,7 +1545,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-08"
+      "date": "2026-05-08",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-08/images/match_Nyali11_vs_CodeTalker_1778261338609.jpeg"
     },
     {
       "home": "Nigelmj21",
@@ -1360,7 +1554,8 @@
       "homeGoals": 4,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-08"
+      "date": "2026-05-08",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-08/images/match_Nigelmj21_vs_Bhaze_1778261292175.jpeg"
     },
     {
       "home": "Bhaze",
@@ -1368,7 +1563,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-09"
+      "date": "2026-05-09",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -1376,7 +1572,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-09"
+      "date": "2026-05-09",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -1384,7 +1581,8 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-09"
+      "date": "2026-05-09",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-09/images/match_SMANGALISO_vs_CRANK__1778601379661.jpg"
     },
     {
       "home": "Gillie11",
@@ -1392,7 +1590,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-09"
+      "date": "2026-05-09",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-09/images/match_Gillie11_vs_Ctaum-cpt_1778530174617.jpg"
     },
     {
       "home": "CodeTalker",
@@ -1400,7 +1599,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-09"
+      "date": "2026-05-09",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-09/images/match_CodeTalker_vs_ICONIC-CLUB_1778361794194.jpg"
     },
     {
       "home": "RFT07",
@@ -1408,7 +1608,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-11"
+      "date": "2026-05-11",
+      "evidence": null
     },
     {
       "home": "XWRLD_REAPERS",
@@ -1416,7 +1617,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-11"
+      "date": "2026-05-11",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-11/images/match_XWRLD_REAPERS_vs_DiliboL_1778563118727.jpg"
     },
     {
       "home": "Zan-Ten",
@@ -1424,7 +1626,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-11"
+      "date": "2026-05-11",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -1432,7 +1635,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-11"
+      "date": "2026-05-11",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-11/images/match_Kloutt_vs_Nyali11_1778562656740.jpg"
     },
     {
       "home": "RoyalAM",
@@ -1440,7 +1644,8 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "result": "home",
-      "date": "2026-05-11"
+      "date": "2026-05-11",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-11/images/match_RoyalAM_vs_Ctaum-cpt_1778562571122.jpg"
     },
     {
       "home": "Bhaze",
@@ -1448,7 +1653,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-11"
+      "date": "2026-05-11",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -1456,7 +1662,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-11"
+      "date": "2026-05-11",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-11/images/match_SMANGALISO_vs_Sailor_1778530097616.jpg"
     },
     {
       "home": "XWRLD_REAPERS",
@@ -1464,7 +1671,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-12"
+      "date": "2026-05-12",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -1472,7 +1680,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-12"
+      "date": "2026-05-12",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -1480,7 +1689,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-12"
+      "date": "2026-05-12",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -1488,7 +1698,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-12"
+      "date": "2026-05-12",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -1496,7 +1707,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-12"
+      "date": "2026-05-12",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -1504,7 +1716,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-12"
+      "date": "2026-05-12",
+      "evidence": null
     },
     {
       "home": "djronaldoza",
@@ -1512,7 +1725,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-12"
+      "date": "2026-05-12",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -1520,7 +1734,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-12"
+      "date": "2026-05-12",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -1528,7 +1743,8 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "result": "away",
-      "date": "2026-05-12"
+      "date": "2026-05-12",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-12/images/match_ICONIC-CLUB_vs_SMANGALISO_1778652602323.jpg"
     },
     {
       "home": "Nyali11",
@@ -1536,7 +1752,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-12"
+      "date": "2026-05-12",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-12/images/match_Nyali11_vs_Zan-Ten_1778652529054.jpg"
     },
     {
       "home": "XWRLD_REAPERS",
@@ -1544,7 +1761,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-13"
+      "date": "2026-05-13",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -1552,7 +1770,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-13"
+      "date": "2026-05-13",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -1560,7 +1779,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-13"
+      "date": "2026-05-13",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -1568,7 +1788,8 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "result": "home",
-      "date": "2026-05-13"
+      "date": "2026-05-13",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-13/images/match_CRANK__vs_ICONIC-CLUB_1778736325131.jpg"
     },
     {
       "home": "Nigelmj21",
@@ -1576,7 +1797,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-13"
+      "date": "2026-05-13",
+      "evidence": null
     },
     {
       "home": "Sailor",
@@ -1584,7 +1806,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-13"
+      "date": "2026-05-13",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-13/images/match_Sailor_vs_Nyali11_1778703715448.jpg"
     },
     {
       "home": "RFT07",
@@ -1592,7 +1815,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-13"
+      "date": "2026-05-13",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-13/images/match_RFT07_vs_CodeTalker_1778703679617.jpg"
     },
     {
       "home": "Bhaze",
@@ -1600,7 +1824,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-13"
+      "date": "2026-05-13",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-13/images/match_Bhaze_vs_djronaldoza_1778703621523.jpg"
     },
     {
       "home": "Bhaze",
@@ -1608,7 +1833,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-13"
+      "date": "2026-05-13",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -1616,7 +1842,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-14"
+      "date": "2026-05-14",
+      "evidence": null
     },
     {
       "home": "djronaldoza",
@@ -1624,7 +1851,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-14"
+      "date": "2026-05-14",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -1632,7 +1860,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-14"
+      "date": "2026-05-14",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -1640,7 +1869,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-14"
+      "date": "2026-05-14",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -1648,7 +1878,8 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "result": "away",
-      "date": "2026-05-14"
+      "date": "2026-05-14",
+      "evidence": null
     },
     {
       "home": "Sailor",
@@ -1656,7 +1887,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-14"
+      "date": "2026-05-14",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -1664,7 +1896,8 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "result": "away",
-      "date": "2026-05-14"
+      "date": "2026-05-14",
+      "evidence": null
     },
     {
       "home": "RFT07",
@@ -1672,7 +1905,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-14"
+      "date": "2026-05-14",
+      "evidence": null
     },
     {
       "home": "XWRLD_REAPERS",
@@ -1680,7 +1914,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-14"
+      "date": "2026-05-14",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -1688,7 +1923,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-15"
+      "date": "2026-05-15",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -1696,7 +1932,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-15"
+      "date": "2026-05-15",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -1704,7 +1941,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-15"
+      "date": "2026-05-15",
+      "evidence": null
     },
     {
       "home": "djronaldoza",
@@ -1712,7 +1950,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-15"
+      "date": "2026-05-15",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -1720,7 +1959,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-15"
+      "date": "2026-05-15",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-15/images/match_DiliboL_vs_RFT07_1778888784609.jpg"
     },
     {
       "home": "Kloutt",
@@ -1728,7 +1968,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-15"
+      "date": "2026-05-15",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -1736,7 +1977,8 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-15"
+      "date": "2026-05-15",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -1744,7 +1986,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-15"
+      "date": "2026-05-15",
+      "evidence": null
     },
     {
       "home": "CodeTalker",
@@ -1752,7 +1995,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-19"
+      "date": "2026-05-19",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -1760,7 +2004,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-19"
+      "date": "2026-05-19",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-19/images/match_Nigelmj21_vs_Kloutt_1779323085173.jpg"
     },
     {
       "home": "RFT07",
@@ -1768,7 +2013,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-19"
+      "date": "2026-05-19",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -1776,7 +2022,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-19"
+      "date": "2026-05-19",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-19/images/match_Nyali11_vs_SMANGALISO_1779245376273.jpg"
     },
     {
       "home": "YungboyShlime",
@@ -1784,7 +2031,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-19"
+      "date": "2026-05-19",
+      "evidence": null
     },
     {
       "home": "XWRLD_REAPERS",
@@ -1792,7 +2040,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-19"
+      "date": "2026-05-19",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-19/images/match_XWRLD_REAPERS_vs_djronaldoza_1779245308844.jpg"
     },
     {
       "home": "Zan-Ten",
@@ -1800,7 +2049,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-19"
+      "date": "2026-05-19",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-19/images/match_Zan-Ten_vs_ICONIC-CLUB_1779245257304.jpg"
     },
     {
       "home": "CRANK_",
@@ -1808,7 +2058,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-19"
+      "date": "2026-05-19",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-19/images/match_CRANK__vs_Sailor_1779245190167.jpg"
     },
     {
       "home": "XWRLD_REAPERS",
@@ -1816,7 +2067,8 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "result": "away",
-      "date": "2026-05-20"
+      "date": "2026-05-20",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -1824,7 +2076,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-20"
+      "date": "2026-05-20",
+      "evidence": null
     },
     {
       "home": "XWRLD_REAPERS",
@@ -1832,7 +2085,8 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "result": "away",
-      "date": "2026-05-20"
+      "date": "2026-05-20",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-20/images/match_XWRLD_REAPERS_vs_Nigelmj21_1779490800531.jpg"
     },
     {
       "home": "Nyali11",
@@ -1840,7 +2094,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-20"
+      "date": "2026-05-20",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-20/images/match_Nyali11_vs_djronaldoza_1779490674183.jpg"
     },
     {
       "home": "YungboyShlime",
@@ -1848,7 +2103,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-20"
+      "date": "2026-05-20",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -1856,7 +2112,8 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "result": "away",
-      "date": "2026-05-20"
+      "date": "2026-05-20",
+      "evidence": null
     },
     {
       "home": "Zan-Ten",
@@ -1864,7 +2121,8 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "result": "away",
-      "date": "2026-05-20"
+      "date": "2026-05-20",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -1872,7 +2130,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-20"
+      "date": "2026-05-20",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -1880,7 +2139,8 @@
       "homeGoals": 10,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-20"
+      "date": "2026-05-20",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -1888,7 +2148,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-20"
+      "date": "2026-05-20",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-20/images/match_ICONIC-CLUB_vs_Nigelmj21_1779323046475.jpg"
     },
     {
       "home": "ICONIC-CLUB",
@@ -1896,7 +2157,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-20"
+      "date": "2026-05-20",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -1904,7 +2166,8 @@
       "homeGoals": 1,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-22"
+      "date": "2026-05-22",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-22/images/match_CRANK__vs_Nigelmj21_1779751640132.jpg"
     },
     {
       "home": "ICONIC-CLUB",
@@ -1912,7 +2175,8 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "result": "away",
-      "date": "2026-05-22"
+      "date": "2026-05-22",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-22/images/match_ICONIC-CLUB_vs_SMANGALISO_1779751615422.jpg"
     },
     {
       "home": "DiliboL",
@@ -1920,7 +2184,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-22"
+      "date": "2026-05-22",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -1928,7 +2193,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-22"
+      "date": "2026-05-22",
+      "evidence": null
     },
     {
       "home": "XWRLD_REAPERS",
@@ -1936,7 +2202,8 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "result": "away",
-      "date": "2026-05-22"
+      "date": "2026-05-22",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -1944,7 +2211,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-22"
+      "date": "2026-05-22",
+      "evidence": null
     },
     {
       "home": "Zan-Ten",
@@ -1952,7 +2220,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-22"
+      "date": "2026-05-22",
+      "evidence": null
     },
     {
       "home": "CodeTalker",
@@ -1960,7 +2229,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-22"
+      "date": "2026-05-22",
+      "evidence": null
     },
     {
       "home": "XWRLD_REAPERS",
@@ -1968,7 +2238,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-23"
+      "date": "2026-05-23",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -1976,7 +2247,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-23"
+      "date": "2026-05-23",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -1984,7 +2256,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-23"
+      "date": "2026-05-23",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -1992,7 +2265,8 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-23"
+      "date": "2026-05-23",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -2000,7 +2274,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-23"
+      "date": "2026-05-23",
+      "evidence": null
     },
     {
       "home": "Zan-Ten",
@@ -2008,7 +2283,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-23"
+      "date": "2026-05-23",
+      "evidence": null
     },
     {
       "home": "RFT07",
@@ -2016,7 +2292,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-23"
+      "date": "2026-05-23",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -2024,7 +2301,8 @@
       "homeGoals": 4,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-23"
+      "date": "2026-05-23",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -2032,7 +2310,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-24"
+      "date": "2026-05-24",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-24/images/match_Kloutt_vs_XWRLD_REAPERS_1779828446950.jpg"
     },
     {
       "home": "Bhaze",
@@ -2040,7 +2319,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-24"
+      "date": "2026-05-24",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -2048,7 +2328,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-24"
+      "date": "2026-05-24",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -2056,7 +2337,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-24"
+      "date": "2026-05-24",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -2064,7 +2346,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-24"
+      "date": "2026-05-24",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-24/images/match_Ctaum-cpt_vs_DiliboL_1779751542578.jpg"
     },
     {
       "home": "Zan-Ten",
@@ -2072,7 +2355,8 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "result": "away",
-      "date": "2026-05-24"
+      "date": "2026-05-24",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-24/images/match_Zan-Ten_vs_Nigelmj21_1779751513550.jpg"
     },
     {
       "home": "Sailor",
@@ -2080,7 +2364,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-24"
+      "date": "2026-05-24",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-24/images/match_Sailor_vs_Nyali11_1779751465556.jpg"
     },
     {
       "home": "CRANK_",
@@ -2088,7 +2373,8 @@
       "homeGoals": 4,
       "awayGoals": 1,
       "result": "home",
-      "date": "2026-05-24"
+      "date": "2026-05-24",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-24/images/match_CRANK__vs_SMANGALISO_1779751403210.jpg"
     },
     {
       "home": "CRANK_",
@@ -2096,7 +2382,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "evidence": null
     },
     {
       "home": "RFT07",
@@ -2104,7 +2391,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "evidence": null
     },
     {
       "home": "CodeTalker",
@@ -2112,7 +2400,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -2120,7 +2409,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -2128,7 +2418,8 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -2136,7 +2427,8 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "result": "away",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "evidence": null
     },
     {
       "home": "Zan-Ten",
@@ -2144,7 +2436,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -2152,7 +2445,8 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -2160,7 +2454,8 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-28"
+      "date": "2026-05-28",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -2168,7 +2463,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-28"
+      "date": "2026-05-28",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -2176,7 +2472,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-28"
+      "date": "2026-05-28",
+      "evidence": null
     },
     {
       "home": "Sailor",
@@ -2184,7 +2481,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-28"
+      "date": "2026-05-28",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -2192,7 +2490,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-28"
+      "date": "2026-05-28",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -2200,7 +2499,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-28"
+      "date": "2026-05-28",
+      "evidence": null
     },
     {
       "home": "Sailor",
@@ -2208,7 +2508,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-28"
+      "date": "2026-05-28",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -2216,7 +2517,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-28"
+      "date": "2026-05-28",
+      "evidence": null
     },
     {
       "home": "CodeTalker",
@@ -2224,7 +2526,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-28"
+      "date": "2026-05-28",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -2232,7 +2535,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-28"
+      "date": "2026-05-28",
+      "evidence": null
     },
     {
       "home": "Zan-Ten",
@@ -2240,7 +2544,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-28"
+      "date": "2026-05-28",
+      "evidence": null
     },
     {
       "home": "Zan-Ten",
@@ -2248,7 +2553,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-29"
+      "date": "2026-05-29",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -2256,7 +2562,8 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-29"
+      "date": "2026-05-29",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -2264,7 +2571,8 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "result": "draw",
-      "date": "2026-05-29"
+      "date": "2026-05-29",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-29/images/match_Nigelmj21_vs_SMANGALISO_1780094292465.jpg"
     },
     {
       "home": "Ctaum-cpt",
@@ -2272,7 +2580,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-29"
+      "date": "2026-05-29",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-29/images/match_Ctaum-cpt_vs_RFT07_1780094211849.jpg"
     },
     {
       "home": "ICONIC-CLUB",
@@ -2280,7 +2589,8 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "result": "away",
-      "date": "2026-05-29"
+      "date": "2026-05-29",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -2288,7 +2598,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-29"
+      "date": "2026-05-29",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -2296,7 +2607,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-29"
+      "date": "2026-05-29",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -2304,7 +2616,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-29"
+      "date": "2026-05-29",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -2312,7 +2625,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-30"
+      "date": "2026-05-30",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -2320,7 +2634,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-05-30"
+      "date": "2026-05-30",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -2328,7 +2643,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-05-30"
+      "date": "2026-05-30",
+      "evidence": null
     },
     {
       "home": "Sailor",
@@ -2336,7 +2652,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-30"
+      "date": "2026-05-30",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -2344,7 +2661,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-30"
+      "date": "2026-05-30",
+      "evidence": null
     },
     {
       "home": "CodeTalker",
@@ -2352,7 +2670,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-05-30"
+      "date": "2026-05-30",
+      "evidence": null
     },
     {
       "home": "CodeTalker",
@@ -2360,7 +2679,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-01"
+      "date": "2026-06-01",
+      "evidence": null
     },
     {
       "home": "Sailor",
@@ -2368,7 +2688,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-01"
+      "date": "2026-06-01",
+      "evidence": null
     },
     {
       "home": "XWRLD_REAPERS",
@@ -2376,7 +2697,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-01"
+      "date": "2026-06-01",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -2384,7 +2706,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-01"
+      "date": "2026-06-01",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -2392,7 +2715,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-01"
+      "date": "2026-06-01",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -2400,7 +2724,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-01"
+      "date": "2026-06-01",
+      "evidence": null
     },
     {
       "home": "RFT07",
@@ -2408,7 +2733,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-01"
+      "date": "2026-06-01",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -2416,7 +2742,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-01"
+      "date": "2026-06-01",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -2424,7 +2751,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-02"
+      "date": "2026-06-02",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -2432,7 +2760,8 @@
       "homeGoals": 4,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-02"
+      "date": "2026-06-02",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -2440,7 +2769,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-02"
+      "date": "2026-06-02",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -2448,7 +2778,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-02"
+      "date": "2026-06-02",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -2456,7 +2787,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-02"
+      "date": "2026-06-02",
+      "evidence": null
     },
     {
       "home": "XWRLD_REAPERS",
@@ -2464,7 +2796,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-02"
+      "date": "2026-06-02",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -2472,7 +2805,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-02"
+      "date": "2026-06-02",
+      "evidence": null
     },
     {
       "home": "Sailor",
@@ -2480,7 +2814,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-02"
+      "date": "2026-06-02",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -2488,7 +2823,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-04"
+      "date": "2026-06-04",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -2496,7 +2832,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-04"
+      "date": "2026-06-04",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -2504,7 +2841,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-04"
+      "date": "2026-06-04",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -2512,7 +2850,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-04"
+      "date": "2026-06-04",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -2520,7 +2859,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-04"
+      "date": "2026-06-04",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -2528,7 +2868,8 @@
       "homeGoals": 4,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-04"
+      "date": "2026-06-04",
+      "evidence": null
     },
     {
       "home": "RFT07",
@@ -2536,7 +2877,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-04"
+      "date": "2026-06-04",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -2544,7 +2886,8 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-04"
+      "date": "2026-06-04",
+      "evidence": null
     },
     {
       "home": "RFT07",
@@ -2552,7 +2895,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-05"
+      "date": "2026-06-05",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -2560,7 +2904,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-05"
+      "date": "2026-06-05",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -2568,7 +2913,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-05"
+      "date": "2026-06-05",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -2576,7 +2922,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-05"
+      "date": "2026-06-05",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -2584,7 +2931,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-05"
+      "date": "2026-06-05",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -2592,7 +2940,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-05"
+      "date": "2026-06-05",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -2600,7 +2949,8 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-05"
+      "date": "2026-06-05",
+      "evidence": null
     },
     {
       "home": "Zan-Ten",
@@ -2608,7 +2958,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-05"
+      "date": "2026-06-05",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -2616,7 +2967,8 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "result": "draw",
-      "date": "2026-06-06"
+      "date": "2026-06-06",
+      "evidence": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-06-06/images/match_SMANGALISO_vs_Ctaum-cpt_1780953875666.jpg"
     },
     {
       "home": "Sailor",
@@ -2624,7 +2976,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-06"
+      "date": "2026-06-06",
+      "evidence": null
     },
     {
       "home": "XWRLD_REAPERS",
@@ -2632,7 +2985,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-06"
+      "date": "2026-06-06",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -2640,7 +2994,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-06"
+      "date": "2026-06-06",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -2648,7 +3003,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-06"
+      "date": "2026-06-06",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -2656,7 +3012,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-06"
+      "date": "2026-06-06",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -2664,7 +3021,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-06"
+      "date": "2026-06-06",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -2672,7 +3030,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-08"
+      "date": "2026-06-08",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -2680,7 +3039,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-08"
+      "date": "2026-06-08",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -2688,7 +3048,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-08"
+      "date": "2026-06-08",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -2696,7 +3057,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-08"
+      "date": "2026-06-08",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -2704,7 +3066,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-08"
+      "date": "2026-06-08",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -2712,7 +3075,8 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "result": "away",
-      "date": "2026-06-08"
+      "date": "2026-06-08",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -2720,7 +3084,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-09"
+      "date": "2026-06-09",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -2728,7 +3093,8 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "result": "away",
-      "date": "2026-06-09"
+      "date": "2026-06-09",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -2736,7 +3102,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-09"
+      "date": "2026-06-09",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -2744,7 +3111,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-09"
+      "date": "2026-06-09",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -2752,7 +3120,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-09"
+      "date": "2026-06-09",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -2760,7 +3129,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-09"
+      "date": "2026-06-09",
+      "evidence": null
     },
     {
       "home": "RFT07",
@@ -2768,7 +3138,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-09"
+      "date": "2026-06-09",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -2776,7 +3147,8 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "result": "home",
-      "date": "2026-06-09"
+      "date": "2026-06-09",
+      "evidence": null
     },
     {
       "home": "Zan-Ten",
@@ -2784,7 +3156,8 @@
       "homeGoals": 0,
       "awayGoals": 6,
       "result": "away",
-      "date": "2026-06-09"
+      "date": "2026-06-09",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -2792,7 +3165,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-12"
+      "date": "2026-06-12",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -2800,7 +3174,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-12"
+      "date": "2026-06-12",
+      "evidence": null
     },
     {
       "home": "XWRLD_REAPERS",
@@ -2808,7 +3183,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-12"
+      "date": "2026-06-12",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -2816,7 +3192,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-12"
+      "date": "2026-06-12",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -2824,7 +3201,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-12"
+      "date": "2026-06-12",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -2832,7 +3210,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-12"
+      "date": "2026-06-12",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -2840,7 +3219,8 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "result": "away",
-      "date": "2026-06-12"
+      "date": "2026-06-12",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -2848,7 +3228,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-12"
+      "date": "2026-06-12",
+      "evidence": null
     },
     {
       "home": "RFT07",
@@ -2856,7 +3237,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-12"
+      "date": "2026-06-12",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -2864,7 +3246,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-12"
+      "date": "2026-06-12",
+      "evidence": null
     },
     {
       "home": "Zan-Ten",
@@ -2872,7 +3255,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-12"
+      "date": "2026-06-12",
+      "evidence": null
     },
     {
       "home": "XWRLD_REAPERS",
@@ -2880,7 +3264,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-12"
+      "date": "2026-06-12",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -2888,7 +3273,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-12"
+      "date": "2026-06-12",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -2896,7 +3282,8 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "result": "draw",
-      "date": "2026-06-12"
+      "date": "2026-06-12",
+      "evidence": null
     },
     {
       "home": "XWRLD_REAPERS",
@@ -2904,7 +3291,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-13"
+      "date": "2026-06-13",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -2912,7 +3300,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-13"
+      "date": "2026-06-13",
+      "evidence": null
     },
     {
       "home": "Zan-Ten",
@@ -2920,7 +3309,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-13"
+      "date": "2026-06-13",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -2928,7 +3318,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-13"
+      "date": "2026-06-13",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -2936,7 +3327,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-13"
+      "date": "2026-06-13",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -2944,7 +3336,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-13"
+      "date": "2026-06-13",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -2952,7 +3345,8 @@
       "homeGoals": 2,
       "awayGoals": 5,
       "result": "away",
-      "date": "2026-06-13"
+      "date": "2026-06-13",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -2960,7 +3354,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-13"
+      "date": "2026-06-13",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -2968,7 +3363,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-15"
+      "date": "2026-06-15",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -2976,7 +3372,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-15"
+      "date": "2026-06-15",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -2984,7 +3381,8 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "result": "away",
-      "date": "2026-06-15"
+      "date": "2026-06-15",
+      "evidence": null
     },
     {
       "home": "XWRLD_REAPERS",
@@ -2992,7 +3390,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-15"
+      "date": "2026-06-15",
+      "evidence": null
     },
     {
       "home": "RFT07",
@@ -3000,7 +3399,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-15"
+      "date": "2026-06-15",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -3008,7 +3408,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-18"
+      "date": "2026-06-18",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -3016,7 +3417,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-18"
+      "date": "2026-06-18",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -3024,7 +3426,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-18"
+      "date": "2026-06-18",
+      "evidence": null
     },
     {
       "home": "XWRLD_REAPERS",
@@ -3032,7 +3435,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-18"
+      "date": "2026-06-18",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -3040,7 +3444,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-18"
+      "date": "2026-06-18",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -3048,7 +3453,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-18"
+      "date": "2026-06-18",
+      "evidence": null
     },
     {
       "home": "DARK-_-CEO",
@@ -3056,7 +3462,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-18"
+      "date": "2026-06-18",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -3064,7 +3471,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-19"
+      "date": "2026-06-19",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -3072,7 +3480,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-19"
+      "date": "2026-06-19",
+      "evidence": null
     },
     {
       "home": "BreadNTea-RSA",
@@ -3080,7 +3489,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-19"
+      "date": "2026-06-19",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -3088,7 +3498,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-19"
+      "date": "2026-06-19",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -3096,7 +3507,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-19"
+      "date": "2026-06-19",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -3104,7 +3516,8 @@
       "homeGoals": 1,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-19"
+      "date": "2026-06-19",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -3112,7 +3525,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-19"
+      "date": "2026-06-19",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -3120,7 +3534,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-19"
+      "date": "2026-06-19",
+      "evidence": null
     },
     {
       "home": "BreadNTea-RSA",
@@ -3128,7 +3543,8 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-19"
+      "date": "2026-06-19",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -3136,7 +3552,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-20"
+      "date": "2026-06-20",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -3144,7 +3561,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-20"
+      "date": "2026-06-20",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -3152,7 +3570,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-20"
+      "date": "2026-06-20",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -3160,7 +3579,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-20"
+      "date": "2026-06-20",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -3168,7 +3588,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-20"
+      "date": "2026-06-20",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -3176,7 +3597,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-20"
+      "date": "2026-06-20",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -3184,7 +3606,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-20"
+      "date": "2026-06-20",
+      "evidence": null
     },
     {
       "home": "BreadNTea-RSA",
@@ -3192,7 +3615,8 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-20"
+      "date": "2026-06-20",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -3200,7 +3624,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-22"
+      "date": "2026-06-22",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -3208,7 +3633,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-22"
+      "date": "2026-06-22",
+      "evidence": null
     },
     {
       "home": "RFT07",
@@ -3216,7 +3642,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-22"
+      "date": "2026-06-22",
+      "evidence": null
     },
     {
       "home": "DARK-_-CEO",
@@ -3224,7 +3651,8 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-22"
+      "date": "2026-06-22",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -3232,7 +3660,8 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "result": "away",
-      "date": "2026-06-22"
+      "date": "2026-06-22",
+      "evidence": null
     },
     {
       "home": "DARK-_-CEO",
@@ -3240,7 +3669,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-23"
+      "date": "2026-06-23",
+      "evidence": null
     },
     {
       "home": "DARK-_-CEO",
@@ -3248,7 +3678,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-23"
+      "date": "2026-06-23",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -3256,7 +3687,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-23"
+      "date": "2026-06-23",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -3264,7 +3696,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-23"
+      "date": "2026-06-23",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -3272,7 +3705,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-23"
+      "date": "2026-06-23",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -3280,7 +3714,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-23"
+      "date": "2026-06-23",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -3288,7 +3723,8 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-23"
+      "date": "2026-06-23",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -3296,7 +3732,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-23"
+      "date": "2026-06-23",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -3304,7 +3741,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-23"
+      "date": "2026-06-23",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -3312,7 +3750,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-27"
+      "date": "2026-06-27",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -3320,7 +3759,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-27"
+      "date": "2026-06-27",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -3328,7 +3768,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-27"
+      "date": "2026-06-27",
+      "evidence": null
     },
     {
       "home": "DARK-_-CEO",
@@ -3336,7 +3777,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-27"
+      "date": "2026-06-27",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -3344,7 +3786,8 @@
       "homeGoals": 7,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-27"
+      "date": "2026-06-27",
+      "evidence": null
     },
     {
       "home": "RFT07",
@@ -3352,7 +3795,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-27"
+      "date": "2026-06-27",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -3360,7 +3804,8 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "result": "home",
-      "date": "2026-06-27"
+      "date": "2026-06-27",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -3368,7 +3813,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-29"
+      "date": "2026-06-29",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -3376,7 +3822,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-29"
+      "date": "2026-06-29",
+      "evidence": null
     },
     {
       "home": "SMANGALISO",
@@ -3384,7 +3831,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-29"
+      "date": "2026-06-29",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -3392,7 +3840,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-29"
+      "date": "2026-06-29",
+      "evidence": null
     },
     {
       "home": "RFT07",
@@ -3400,7 +3849,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-06-29"
+      "date": "2026-06-29",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -3408,7 +3858,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-29"
+      "date": "2026-06-29",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -3416,7 +3867,8 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-29"
+      "date": "2026-06-29",
+      "evidence": null
     },
     {
       "home": "DARK-_-CEO",
@@ -3424,7 +3876,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-29"
+      "date": "2026-06-29",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -3432,7 +3885,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-30"
+      "date": "2026-06-30",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -3440,7 +3894,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-30"
+      "date": "2026-06-30",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -3448,7 +3903,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-06-30"
+      "date": "2026-06-30",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -3456,7 +3912,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-30"
+      "date": "2026-06-30",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -3464,7 +3921,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-30"
+      "date": "2026-06-30",
+      "evidence": null
     },
     {
       "home": "BreadNTea-RSA",
@@ -3472,7 +3930,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-06-30"
+      "date": "2026-06-30",
+      "evidence": null
     },
     {
       "home": "DARK-_-CEO",
@@ -3480,7 +3939,8 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "result": "draw",
-      "date": "2026-06-30"
+      "date": "2026-06-30",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -3488,7 +3948,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-02"
+      "date": "2026-07-02",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -3496,7 +3957,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-02"
+      "date": "2026-07-02",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -3504,7 +3966,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-02"
+      "date": "2026-07-02",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -3512,7 +3975,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-02"
+      "date": "2026-07-02",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -3520,7 +3984,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-02"
+      "date": "2026-07-02",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -3528,7 +3993,8 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "result": "draw",
-      "date": "2026-07-02"
+      "date": "2026-07-02",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -3536,7 +4002,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-02"
+      "date": "2026-07-02",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -3544,7 +4011,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-03"
+      "date": "2026-07-03",
+      "evidence": null
     },
     {
       "home": "Zan-Ten",
@@ -3552,7 +4020,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-03"
+      "date": "2026-07-03",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -3560,7 +4029,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-03"
+      "date": "2026-07-03",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -3568,7 +4038,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-03"
+      "date": "2026-07-03",
+      "evidence": null
     },
     {
       "home": "BreadNTea-RSA",
@@ -3576,7 +4047,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-03"
+      "date": "2026-07-03",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -3584,7 +4056,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-03"
+      "date": "2026-07-03",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -3592,7 +4065,8 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-03"
+      "date": "2026-07-03",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -3600,7 +4074,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-04"
+      "date": "2026-07-04",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -3608,7 +4083,8 @@
       "homeGoals": 2,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-04"
+      "date": "2026-07-04",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -3616,7 +4092,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-04"
+      "date": "2026-07-04",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -3624,7 +4101,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-04"
+      "date": "2026-07-04",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -3632,7 +4110,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-06"
+      "date": "2026-07-06",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -3640,7 +4119,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-06"
+      "date": "2026-07-06",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -3648,7 +4128,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-06"
+      "date": "2026-07-06",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -3656,7 +4137,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-06"
+      "date": "2026-07-06",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -3664,7 +4146,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-06"
+      "date": "2026-07-06",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -3672,7 +4155,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-06"
+      "date": "2026-07-06",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -3680,7 +4164,8 @@
       "homeGoals": 4,
       "awayGoals": 1,
       "result": "home",
-      "date": "2026-07-06"
+      "date": "2026-07-06",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -3688,7 +4173,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-07"
+      "date": "2026-07-07",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -3696,7 +4182,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-07"
+      "date": "2026-07-07",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -3704,7 +4191,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-07"
+      "date": "2026-07-07",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -3712,7 +4200,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-07"
+      "date": "2026-07-07",
+      "evidence": null
     },
     {
       "home": "BreadNTea-RSA",
@@ -3720,7 +4209,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-09"
+      "date": "2026-07-09",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -3728,7 +4218,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-10"
+      "date": "2026-07-10",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -3736,7 +4227,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-10"
+      "date": "2026-07-10",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -3744,7 +4236,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-10"
+      "date": "2026-07-10",
+      "evidence": null
     },
     {
       "home": "DARK-_-CEO",
@@ -3752,7 +4245,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-10"
+      "date": "2026-07-10",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -3760,7 +4254,8 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "result": "away",
-      "date": "2026-07-10"
+      "date": "2026-07-10",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -3768,7 +4263,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-10"
+      "date": "2026-07-10",
+      "evidence": null
     },
     {
       "home": "BreadNTea-RSA",
@@ -3776,7 +4272,8 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "result": "draw",
-      "date": "2026-07-10"
+      "date": "2026-07-10",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -3784,7 +4281,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-11"
+      "date": "2026-07-11",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -3792,7 +4290,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-11"
+      "date": "2026-07-11",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -3800,7 +4299,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-11"
+      "date": "2026-07-11",
+      "evidence": null
     },
     {
       "home": "ICONIC-CLUB",
@@ -3808,7 +4308,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-11"
+      "date": "2026-07-11",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -3816,7 +4317,8 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "result": "away",
-      "date": "2026-07-11"
+      "date": "2026-07-11",
+      "evidence": null
     },
     {
       "home": "RoyalAM",
@@ -3824,7 +4326,8 @@
       "homeGoals": 5,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-11"
+      "date": "2026-07-11",
+      "evidence": null
     },
     {
       "home": "DiliboL",
@@ -3832,7 +4335,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-11"
+      "date": "2026-07-11",
+      "evidence": null
     },
     {
       "home": "Kloutt",
@@ -3840,7 +4344,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-13"
+      "date": "2026-07-13",
+      "evidence": null
     },
     {
       "home": "RFT07",
@@ -3848,7 +4353,8 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "result": "away",
-      "date": "2026-07-13"
+      "date": "2026-07-13",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -3856,7 +4362,8 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-13"
+      "date": "2026-07-13",
+      "evidence": null
     },
     {
       "home": "YungboyShlime",
@@ -3864,7 +4371,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-14"
+      "date": "2026-07-14",
+      "evidence": null
     },
     {
       "home": "Nigelmj21",
@@ -3872,7 +4380,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-14"
+      "date": "2026-07-14",
+      "evidence": null
     },
     {
       "home": "Nyali11",
@@ -3880,7 +4389,8 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "result": "draw",
-      "date": "2026-07-14"
+      "date": "2026-07-14",
+      "evidence": null
     },
     {
       "home": "CRANK_",
@@ -3888,7 +4398,8 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "result": "home",
-      "date": "2026-07-14"
+      "date": "2026-07-14",
+      "evidence": null
     },
     {
       "home": "Zan-Ten",
@@ -3896,7 +4407,8 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "result": "draw",
-      "date": "2026-07-14"
+      "date": "2026-07-14",
+      "evidence": null
     },
     {
       "home": "Ctaum-cpt",
@@ -3904,7 +4416,8 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "result": "draw",
-      "date": "2026-07-14"
+      "date": "2026-07-14",
+      "evidence": null
     },
     {
       "home": "Bhaze",
@@ -3912,9 +4425,14 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "result": "away",
-      "date": "2026-07-14"
+      "date": "2026-07-14",
+      "evidence": null
     }
   ],
-  "updatedAt": "2026-07-24T22:10:04.948Z",
-  "matchesPlayed": 424
+  "fixtures": {
+    "today": [],
+    "postponed": []
+  },
+  "updatedAt": "2026-07-26T14:37:43.233Z",
+  "matchesPlayed": 434
 }
